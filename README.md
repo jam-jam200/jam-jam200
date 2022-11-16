@@ -2,7 +2,8 @@
 
 I'm Jessica Oyakhilome a Frontend Developer and a Software Tester. The majority of my time is spent developing and testing various projects.
 
-:mailbox: Get in Touch!
+:mailbox: Get in Touch! 
+:email:fruitfuljessica@gmail.com
 
 [![Twitter Badge](https://img.shields.io/badge/-@OyakhilomeJess1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/OyakhilomeJess1) [![Linkedin Badge](https://img.shields.io/badge/-jessicaoyaks-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaoyaks/) [![Mail Badge](https://img.shields.io/badge/-@jessyoyaks-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jessyoyaks/) [![Mail Badge](https://img.shields.io/badge/-fruitfuljessica-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fruitfuljessica@gmail.com)
 
