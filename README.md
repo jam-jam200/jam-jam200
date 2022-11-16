@@ -23,11 +23,17 @@ I'm Jessica Oyakhilome a Frontend Developer and a Software Tester. The majority 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jam-jam200.jam-jam200&left_color=gray&right_color=red)
 
 
+<details>
+<summary>More about me</summary>
+<br >
+
+I enjoy taking care of kids :smiley:
+
 #### My GitHub Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jam-jam200&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
