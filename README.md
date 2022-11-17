@@ -20,7 +20,8 @@ I'm Jessica Oyakhilome a Frontend Developer and a Software Tester. The majority 
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jam-jam200.jam-jam200&left_color=gray&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jam-jam200.jam-jam200&left_color=gray&right_color=red) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jam-jam200.jam-jam200)
 
 
 <details>
