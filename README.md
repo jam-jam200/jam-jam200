@@ -32,6 +32,16 @@ I enjoy taking care of kids :smiley:
 #### My GitHub Stats
 
 <!--START_SECTION:waka-->
+
+```text
+From: 15 November 2022 - To: 16 November 2022
+
+Total Time: 34 mins
+
+Markdown   29 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.04 %
+YAML       4 mins          >>>----------------------   12.96 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jam-jam200&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
