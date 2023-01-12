@@ -34,16 +34,16 @@ I enjoy taking care of kids :smiley:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 10 January 2023
+From: 15 November 2022 - To: 11 January 2023
 
-Total Time: 81 hrs 39 mins
+Total Time: 82 hrs 16 mins
 
-JavaScript   34 hrs 47 mins  >>>>>>>>>>>--------------   42.61 %
-CSS          18 hrs 46 mins  >>>>>>-------------------   23.00 %
-SCSS         16 hrs 10 mins  >>>>>--------------------   19.80 %
-HTML         8 hrs 15 mins   >>>----------------------   10.12 %
-EJS          1 hr 20 mins    -------------------------   01.64 %
-JSON         1 hr 2 mins     -------------------------   01.27 %
+JavaScript   35 hrs 24 mins  >>>>>>>>>>>--------------   43.04 %
+CSS          18 hrs 46 mins  >>>>>>-------------------   22.83 %
+SCSS         16 hrs 10 mins  >>>>>--------------------   19.66 %
+HTML         8 hrs 15 mins   >>>----------------------   10.05 %
+EJS          1 hr 20 mins    -------------------------   01.63 %
+JSON         1 hr 2 mins     -------------------------   01.26 %
 ```
 
 <!--END_SECTION:waka-->
