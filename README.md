@@ -34,7 +34,7 @@ I enjoy taking care of kids :smiley:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2022 - To: 10 July 2023
+From: 15 November 2022 - To: 11 July 2023
 
 Total Time: 97 hrs 59 mins
 
