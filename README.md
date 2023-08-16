@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https:/jam-jam2003.io)]
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://jam-jam200.io)
 
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A passionate Junior Software Tester from Nigeria </h3>
@@ -38,7 +38,7 @@
 
 #### My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&" alt="jam-jam200" theme="drak"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&&&theme=tokyonight" alt="jam-jam200"/></p>
 
 
 <!--START_SECTION:waka-->
