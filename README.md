@@ -1,20 +1,37 @@
-## Hi I'm Jessica <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Hi 👋, I'm Jessica</h1>
+<h3 align="center">A passionate Junior Software Tester from Nigeria</h3>
 
-I'm Jessica Oyakhilome a Frontend Developer and a Software Tester. The majority of my time is spent developing and testing various projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jam-jam200&label=Profile%20views&color=0e75b6&style=flat" alt="jam-jam200" /> </p>
 
-:mailbox: Get in Touch! 
-:email:fruitfuljessica@gmail.com
+<p align="left"> <a href="https://twitter.com/oyakhilomejess1" target="blank"><img src="https://img.shields.io/twitter/follow/oyakhilomejess1?logo=twitter&style=for-the-badge" alt="oyakhilomejess1" /></a> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@OyakhilomeJess1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/OyakhilomeJess1) [![Linkedin Badge](https://img.shields.io/badge/-jessicaoyaks-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaoyaks/) [![Mail Badge](https://img.shields.io/badge/-@jessyoyaks-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jessyoyaks/) [![Mail Badge](https://img.shields.io/badge/-fruitfuljessica-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fruitfuljessica@gmail.com)
+- 🌱 I’m currently learning **Java,Selenium and penetration testing**
 
-- :computer: Most used line of code `git commit -m "progress"`
-- 📫 How to reach me: fruitfuljessica@gmail.com.
-- 😄 Pronouns: She, Her, Jessica, Jess.
-- ⚡ Fun fact: I love watching anime and reading mangas
+- 👨‍💻 All of my projects are available at [https://jessyoyaks.netlify.app/](https://jessyoyaks.netlify.app/)
 
-#### Technologies I Use
+- 💬 Ask me about **testing methodologies and STLC**
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![GraphQL Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=node.java&logoColor=e535ab)](#)[![TailwindCSS](https://img.shields.io/badge/-tailwindCSS-59C1BD?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=59C1BD)](#)[![SASS](https://img.shields.io/badge/-SASS-FF8FB1?style=for-the-badge&labelColor=black&logo=sass&logoColor=FF8FB1)](#)[![HTML5](https://img.shields.io/badge/-HTML5-FD841F?style=for-the-badge&labelColor=black&logo=html5&logoColor=FD841F)](#)[![CSS3](https://img.shields.io/badge/-CSS3-2192FF?style=for-the-badge&labelColor=black&logo=css3&logoColor=2192FF)](#)[![CYPRESS](https://img.shields.io/badge/-CYPRESS-628E90?style=for-the-badge&labelColor=black&logo=cypress&logoColor=628E90)](#)[![POSTMAN](https://img.shields.io/badge/-POSTMAN-FD841F?style=for-the-badge&labelColor=black&logo=postman&logoColor=FD841F)](#)
+- 📫 How to reach me **fruitfuljessica@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/jessicaoyaks/](https://www.linkedin.com/in/jessicaoyaks/)
+
+- ⚡ Fun fact **I love baby sitting and cooking**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/oyakhilomejess1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyakhilomejess1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessicaoyaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessicaoyaks" height="30" width="40" /></a>
+<a href="https://instagram.com/jessy_oyaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jessy_oyaks" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jam-jam200&show_icons=true&locale=en&layout=compact" alt="jam-jam200" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-jam200&show_icons=true&locale=en" alt="jam-jam200" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&" alt="jam-jam200" /></p>
 
 
 #### Profile Visits
