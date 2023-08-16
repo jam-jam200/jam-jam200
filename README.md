@@ -35,7 +35,7 @@
 
 #### My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&" alt="jam-jam200" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&" alt="jam-jam200" prs&theme="dracula"/></p>
 
 
 <!--START_SECTION:waka-->
