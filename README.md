@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https:/jam-jam2003.io)]
+
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A passionate Junior Software Tester from Nigeria</h3>
+<h3 align="center">A passionate Junior Software Tester from Nigeria </h3>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jam-jam200&label=Profile%20views&color=0e75b6&style=flat" alt="jam-jam200" /> </p>
 
@@ -35,7 +38,7 @@
 
 #### My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&" alt="jam-jam200" prs&theme="dracula"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jam-jam200&" alt="jam-jam200" theme="drak"/></p>
 
 
 <!--START_SECTION:waka-->
