@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Junior Software Tester from Nigeria </h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" >
 
+[![](https://visitcount.itsvg.in/api?id=jam-jam200&icon=0&color=6)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 - 🌱 I’m currently learning **Java, Selenium and penetration testing**<br><br>- 👨‍💻 All of my projects are available at [https://jessyoyaks.netlify.app/](https://jessyoyaks.netlify.app/)<br><br>- 💬 Ask me about **testing methodologies and STLC**<br><br>- 📫 How to reach me **fruitfuljessica@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/jessicaoyaks/](https://www.linkedin.com/in/jessicaoyaks/)<br><br>- ⚡ Fun fact **I love baby sitting and cooking**
 
@@ -45,7 +47,7 @@ HTML             9 hrs 39 mins   >>-----------------------   07.05 %
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jam-jam200&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
