@@ -57,7 +57,7 @@ HTML             9 hrs 39 mins   >>-----------------------   07.05 %
 
 <!--END_SECTION:waka-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jam-jam200&&&theme=tokyonight&show_icons=true&locale=en" alt="jam-jam200" /></p>
+
 
 
 
