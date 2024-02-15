@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2022 - To: 13 February 2024
+From: 15 November 2022 - To: 14 February 2024
 
-Total Time: 145 hrs 39 mins
+Total Time: 145 hrs 41 mins
 
-JavaScript       49 hrs 25 mins  >>>>>>>>-----------------   33.93 %
-Java             44 hrs 53 mins  >>>>>>>>-----------------   30.82 %
-CSS              20 hrs 8 mins   >>>----------------------   13.83 %
+JavaScript       49 hrs 25 mins  >>>>>>>>-----------------   33.92 %
+Java             44 hrs 56 mins  >>>>>>>>-----------------   30.84 %
+CSS              20 hrs 8 mins   >>>----------------------   13.82 %
 SCSS             17 hrs 8 mins   >>>----------------------   11.77 %
 HTML             9 hrs 39 mins   >>-----------------------   06.63 %
 ```
